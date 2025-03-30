@@ -88,8 +88,8 @@ Classify Iris flowers into their respective species using machine learning model
 
 ## 🤝 **Contact**
 For any queries or collaborations, feel free to connect with me:
-- 🏆 **GitHub:** [yourgithubprofile](https://github.com/JiteshShelke/Jtxmaster)
-- 💼 **LinkedIn:** [yourlinkedinprofile](https://www.linkedin.com/in/jitesh-shelke-702745286/)
+- 🏆 **GitHub:** (https://github.com/JiteshShelke/Jtxmaster)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/jitesh-shelke-702745286/)
 
 ---
 
