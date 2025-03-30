@@ -33,7 +33,7 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 ### 🎯 **Objective**
 Predict movie ratings based on features such as genre, director, and actors. 🍿🎥
 
-### 📂 **Dataset** ([Download Here](https://www.kaggle.com/PromptCloudHQ/imdb-dataset))
+### 📂 **Dataset** ([Download Here](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies))
 - `Name`, `Year`, `Duration`, `Genre`, `Rating`, `Votes`, `Director`, `Actor 1`, `Actor 2`, `Actor 3`
 
 ### 🛠 **Technologies Used**
